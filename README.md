@@ -6,7 +6,7 @@ We released the dataset list of LUNA-DG we used in our paper. We traced back the
 Citation
 =
 If you find this project useful for your research, please use the following BibTeX entry.
-》@article{
-》 title={AFA: Adversarial Frequency Alignment for Domain Generalized Lung Nodule Detection},
-》 author={Baocai Yin, Mei Sun, Jing Zhang, Wenchao Liu, Cong Liu, Zengfu Wang},
-》}
+>@article{
+> title={AFA: Adversarial Frequency Alignment for Domain Generalized Lung Nodule Detection},
+> author={Baocai Yin, Mei Sun, Jing Zhang, Wenchao Liu, Cong Liu, Zengfu Wang},
+>}
