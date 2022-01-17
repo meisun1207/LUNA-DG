@@ -7,6 +7,13 @@ Citation
 =
 If you find this project useful for your research, please use the following BibTeX entry.
 >@article{  
->>>title={AFA: Adversarial Frequency Alignment for Domain Generalized Lung Nodule Detection},  
- >>>author={Baocai Yin, Mei Sun, Jing Zhang, Wenchao Liu, Cong Liu, Zengfu Wang},  
->>>  }
+title={AFA: Adversarial Frequency Alignment for Domain Generalized Lung Nodule Detection},  
+ author={Baocai Yin, Mei Sun, Jing Zhang, Wenchao Liu, Cong Liu, Zengfu Wang},  
+  }
+
+@inproceedings{zhou2019objects,
+  title={Objects as Points},
+  author={Zhou, Xingyi and Wang, Dequan and Kr{\"a}henb{\"u}hl, Philipp},
+  booktitle={arXiv preprint arXiv:1904.07850},
+  year={2019}
+}
