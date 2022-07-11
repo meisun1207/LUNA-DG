@@ -7,14 +7,14 @@ Citation
 =
 If you find this project useful for your research, please use the following BibTeX entry.
 > 
-@article{yin2022afa,
-  title={AFA: adversarial frequency alignment for domain generalized lung nodule detection},
-  author={Yin, Baocai and Sun, Mei and Zhang, Jing and Liu, Wenchao and Liu, Cong and Wang, Zengfu},
-  journal={Neural Computing and Applications},
-  volume={34},
-  number={10},
-  pages={8039--8050},
-  year={2022},
-  publisher={Springer}
+@article{yin2022afa,  
+  title={AFA: adversarial frequency alignment for domain generalized lung nodule detection},  
+  author={Yin, Baocai and Sun, Mei and Zhang, Jing and Liu, Wenchao and Liu, Cong and Wang, Zengfu},  
+  journal={Neural Computing and Applications},  
+  volume={34},  
+  number={10},  
+  pages={8039--8050},  
+  year={2022},  
+  publisher={Springer}  
 }
 
